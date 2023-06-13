@@ -1,3 +1,2 @@
 # SecureMicroservices
-Identity Server 4 example implementation 
-Working progres 
+Learning purpose project for Identity Server 4
